@@ -107,6 +107,17 @@
             "pinKey": "r1lQLAOBwJb"
           }
         },
+        "HJyHgg5Tf": {
+          "id": "HJyHgg5Tf",
+          "input": {
+            "nodeId": "rkkNrnZ3G",
+            "pinKey": "BkeKcj6ZZ"
+          },
+          "output": {
+            "nodeId": "HklQ8WJuG",
+            "pinKey": "Sy8IcKdIZ"
+          }
+        },
         "Hk97S3W2z": {
           "id": "Hk97S3W2z",
           "input": {
@@ -116,17 +127,6 @@
           "output": {
             "nodeId": "HklQ8WJuG",
             "pinKey": "Sy8IcKdIZ"
-          }
-        },
-        "HySNrhb3M": {
-          "id": "HySNrhb3M",
-          "input": {
-            "nodeId": "rkkNrnZ3G",
-            "pinKey": "BkeKcj6ZZ"
-          },
-          "output": {
-            "nodeId": "HkV7H3bhf",
-            "pinKey": "__out__"
           }
         },
         "Sksj2zxUM": {
@@ -264,7 +264,7 @@
         "HkV7H3bhf": {
           "id": "HkV7H3bhf",
           "position": {
-            "x": 476,
+            "x": 408,
             "y": 102
           },
           "type": "xod/core/cast-number-to-string"
