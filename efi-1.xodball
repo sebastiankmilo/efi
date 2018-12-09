@@ -8,6 +8,17 @@
   "patches": {
     "@/basurainteligente": {
       "links": {
+        "B17PbA8CG": {
+          "id": "B17PbA8CG",
+          "input": {
+            "nodeId": "rkkNrnZ3G",
+            "pinKey": "Hkqu9oaWb"
+          },
+          "output": {
+            "nodeId": "HklQ8WJuG",
+            "pinKey": "Sy8IcKdIZ"
+          }
+        },
         "BJNxll5aM": {
           "id": "BJNxll5aM",
           "input": {
@@ -264,8 +275,8 @@
         "HkV7H3bhf": {
           "id": "HkV7H3bhf",
           "position": {
-            "x": 408,
-            "y": 102
+            "x": 374,
+            "y": 0
           },
           "type": "xod/core/cast-number-to-string"
         },
